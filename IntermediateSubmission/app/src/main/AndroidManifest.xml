@@ -34,7 +34,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCyB_42Z1nZffOlWqXsC4tB4B6gOdqmNuY" />
+            android:value="HIDE" />
 
         <activity
             android:name=".CameraActivity"
