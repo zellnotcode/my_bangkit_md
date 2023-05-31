@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntermediateSubmission</string>
+    <string name="password">Password</string>
+    <string name="halo_user"> Hai Pengguna</string>
+    <string name="login_to_begin">Masuk untuk mulai berbagi dengan kami!</string>
+    <string name="join_with_us">Bergabung untuk berbagi tentang anda!</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="dont_have_account_yet">Belum memiliki akun ?</string>
+    <string name="logo_dicoding">Ikon Dicoding</string>
+    <string name="error_standard_message">Terdapat masalah</string>
+    <string name="success">Sukses</string>
+    <string name="list_story">Daftar Cerita</string>
+    <string name="profile">Profile</string>
+    <string name="add_photo">Tambahkan Foto</string>
+    <string name="logout">Keluar</string>
+    <string name="back_button">Tombol Kembali</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="new_story">Cerita Baru</string>
+    <string name="description">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="error_take_photo">Terdapat masalah saat mengambil gambar</string>
+    <string name="didnt_get_permission">Belum mendapatkan izin</string>
+    <string name="choose_a_picture">Pilih Gambar</string>
+    <string name="failed_open_camera">Gagal membuka kamera</string>
+    <string name="story_photo">Foto cerita</string>
+    <string name="preview_photo">Pratinjau Foto</string>
+    <string name="camera_button">Tombol kamera</string>
+    <string name="gallery_button">Tombol galeri</string>
+    <string name="fill_the_form">Isi form terlebih dahulu</string>
+    <string name="maps">Peta</string>
+    <string name="error_password">Password anda dibawah 8 karakter</string>
+    <string name="location">Lokasi</string>
+    <string name="location_not_found">Lokasi Tidak ditemukan. Coba lagi</string>
+    <string name="retry">Coba lagi</string>
+</resources>

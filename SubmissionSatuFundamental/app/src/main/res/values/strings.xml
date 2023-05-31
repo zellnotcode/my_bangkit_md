@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Github User Search</string>
+    <string name="username">Username</string>
+    <string name="user_image">User Image</string>
+    <string name="see_more">Click to see more!</string>
+    <string name="error_get_data">Failed to get data!</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="zero">0</string>
+    <string name="failed_get_data">Failed to get data!</string>
+    <string name="home_title">Github User Search</string>
+    <string name="detail_title">Detail User</string>
+    <string name="settings_description">Go to settings</string>
+    <string name="move_favorite_description">Move to favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_page_title">User Favorite</string>
+</resources>

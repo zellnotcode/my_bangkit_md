@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KimetsuApp</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="search_placeholder">Search</string>
+    <string name="about_name">Putra Cendikia Subekti</string>
+    <string name="about_email">putracc18@gmail.com</string>
+</resources>

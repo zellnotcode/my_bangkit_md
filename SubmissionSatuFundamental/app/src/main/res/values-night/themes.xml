@@ -1,0 +1,13 @@
+<resources>
+    <style name="MyStyle" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/darkBrown</item>
+        <item name="colorPrimaryVariant">@color/darkBrown</item>
+        <item name="colorOnPrimary">@color/eerieBlack</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/darkBrown</item>
+        <item name="colorOnSurface">@color/white</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

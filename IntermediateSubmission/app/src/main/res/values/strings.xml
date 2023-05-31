@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">IntermediateSubmission</string>
+    <string name="password">Password</string>
+    <string name="halo_user"> Hallo User</string>
+    <string name="login_to_begin">Login to begin and sharing with us!</string>
+    <string name="join_with_us">Join with us for sharing urs!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="dont_have_account_yet">Don\'t have an account yet?</string>
+    <string name="logo_dicoding">Dicoding\'s Logo</string>
+    <string name="error_standard_message">Error</string>
+    <string name="success">Success</string>
+    <string name="list_story">List Story</string>
+    <string name="profile">Profile</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="logout">Logout</string>
+    <string name="back_button">Back Button</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="new_story">New Story</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="error_take_photo">Error take photo</string>
+    <string name="didnt_get_permission">Didn\'t get permission</string>
+    <string name="choose_a_picture">Choose a picture</string>
+    <string name="failed_open_camera">Failed to open camera</string>
+    <string name="story_photo">Story Photo</string>
+    <string name="preview_photo">Preview Photo</string>
+    <string name="camera_button">Camera Button</string>
+    <string name="gallery_button">Gallery Button</string>
+    <string name="fill_the_form">Fill the form first</string>
+    <string name="maps">Maps</string>
+    <string name="error_password">Your password less than 8 characters</string>
+    <string name="location">Location</string>
+    <string name="location_not_found">Location is not found. Try Again</string>
+    <string name="retry">Retry</string>
+</resources>

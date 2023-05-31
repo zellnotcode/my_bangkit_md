@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Makanan Indonesia</string>
+    <string name="food_photo">Foto Makanan</string>
+    <string name="my_name">Putra Cendikia Subekti</string>
+    <string name="my_email">putracc18@gmail.com</string>
+    <string name="about_me">About Me</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_food_name">
+        <item>Bakso</item>
+        <item>Gado Gado</item>
+        <item>Gudeg</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Padang</item>
+        <item>Pempek</item>
+        <item>Rawon</item>
+        <item>Rendang</item>
+        <item>Sambal</item>
+        <item>Sate</item>
+    </string-array>
+
+    <string-array name="data_foods_desc">
+        <item>Bakso merupakan olahan dari daging sapi yang dihaluskan, dicampur dengan bumbu halus, tepung terigu, dan penyedap rasa. Adonan tersebut dibentuk bola lalu direbus hingga matang. Bakso disajikan bersama kuah kaldu sapi beserta pelengkap berupa mie kuning, bihun, tahu bakso, dan rajangan daun seledri. Kini bakso telah banyak dimodifikasi seperti bakso keju, bakso rawit, bakso beranak, bakso telur, hingga bakso yang ukuran jumbo. Jangan lupa untuk menyantap bakso beserta kecap, saus ataupun sambal yang menggugah selera.</item>
+        <item>Gado-gado adalah makanan khas dari Jakarta yang menyehatkan karena terdiri dari rebusan sayuran seperti kangkung, wortel, labu siam, selada, timun dan irisan tempe yang disiram dengan saus kacang yang gurih. Di Jawa Barat Gado-gado disebut dengan Lotek. Serupa bentuknya namun tak sama citarasanya. Lotek memakai bumbu kacang, bawang putih, kencur, dan asam jawa sehingga memiliki bau yang lebih kuat dan lebih manis dibandingkan Gado-gado.</item>
+        <item>Gudeg adalah salah satu makanan khas Indonesia, khususnya dari daerah Yogyakarta dan Jawa Tengah. Makanan ini terbuat dari nangka muda yang dimasak dalam santan kelapa dengan bumbu-bumbu rempah seperti daun salam, serai, lengkuas, bawang merah, cabai, dan gula aren. Nangka muda direbus dalam bumbu-bumbu tersebut selama berjam-jam hingga empuk dan menghasilkan rasa yang kaya dan lezat. Gudeg disajikan dengan nasi putih dan pelengkap seperti telur rebus, ayam suwir, atau krecek (potongan kecil kulit sapi yang dimasak hingga empuk). Gudeg biasanya dihidangkan dalam wadah daun pisang, yang memberikan aroma yang khas dan segar.</item>
+        <item>Nasi Goreng adalah salah satu makanan khas Indonesia yang terkenal di seluruh dunia. Makanan ini terbuat dari nasi yang digoreng dengan bumbu-bumbu khas Indonesia seperti bawang putih, bawang merah, cabai, kecap manis, dan kecap asin. Selain itu, nasi goreng biasanya juga dicampur dengan bahan-bahan lain seperti telur, daging, ayam, udang, atau sayuran seperti wortel, buncis, atau kacang polong. Nasi goreng dapat dijumpai di berbagai tempat, mulai dari warung sederhana di pinggir jalan hingga restoran mewah. Rasanya yang gurih dan pedas membuat nasi goreng menjadi makanan yang disukai oleh banyak orang.</item>
+        <item>Nasi Padang adalah salah satu jenis masakan khas Indonesia yang berasal dari daerah Padang, Sumatra Barat. Makanan ini terdiri dari nasi putih yang disajikan dengan berbagai jenis hidangan lauk pauk khas Padang seperti rendang, gulai ayam, ayam pop, balado, sambal goreng hati, dan banyak lagi. Hidangan tersebut biasanya disajikan dalam piring kecil dan diatur di atas meja atau etalase untuk dipilih oleh pelanggan. asi Padang memiliki cita rasa yang khas dan pedas. Bumbu masakan yang digunakan sangat beragam dan terdiri dari rempah-rempah khas Indonesia seperti kunyit, jahe, lengkuas, serai, cabai, dan bawang merah. Rendang adalah salah satu hidangan paling terkenal dari masakan Padang, dengan daging yang dimasak dalam santan dan bumbu rempah-rempah yang kaya selama berjam-jam hingga menghasilkan daging yang empuk dan beraroma harum.</item>
+        <item>Pempek adalah salah satu makanan khas Indonesia, khususnya dari Palembang, Sumatera Selatan. Pempek terbuat dari campuran tepung sagu, ikan tenggiri yang dihaluskan, dan bahan lain seperti bawang putih, garam, dan air, yang dicetak menjadi berbagai bentuk seperti bola, lenjer, atau kapal selam, kemudian direbus dalam air. Setelah itu, pempek biasanya disajikan dengan kuah cuka yang terbuat dari cuka, air, gula, cabai rawit, dan ebi (udang kecil yang telah dikeringkan).</item>
+        <item>Rawon adalah makanan khas Indonesia, khususnya dari daerah Jawa Timur, yang terbuat dari daging sapi yang dimasak dalam kuah hitam yang khas. Kuah hitam pada rawon dibuat dari bahan-bahan seperti kluwek (buah hitam yang tumbuh di pohon kluwak), bawang merah, bawang putih, jahe, serai, daun jeruk, dan cabai. Daging sapi yang biasanya digunakan untuk rawon adalah bagian sandung lamur atau bagian daging paha belakang sapi yang empuk dan berlemak. Daging sapi tersebut direbus dalam kuah hitam yang kaya rempah dan bumbu, sehingga menghasilkan cita rasa yang kaya dan lezat.</item>
+        <item>Rendang adalah masakan khas Indonesia, khususnya dari daerah Sumatera Barat. Masakan ini terbuat dari daging sapi yang dimasak dalam bumbu rempah yang kaya dan kuah santan kelapa yang gurih. Bumbu rempah rendang terdiri dari cabai, bawang merah, bawang putih, serai, daun jeruk, jahe, kunyit, dan beberapa bahan lainnya. Proses memasak rendang memakan waktu yang cukup lama, yaitu sekitar 4 sampai 5 jam dengan suhu yang rendah dan terus-menerus diaduk hingga kuahnya mengental dan bumbu rempah meresap ke dalam daging. Teknik memasak yang panjang dan berulang-ulang ini membuat daging menjadi empuk dan rasanya meresap ke dalam bumbu rendang.</item>
+        <item>Sambal adalah saus pedas khas Indonesia yang terbuat dari cabai yang dihaluskan dengan bahan-bahan lain seperti bawang merah, bawang putih, garam, gula, air jeruk nipis atau cuka, dan bahan pelengkap lainnya seperti tomat atau terasi. Sambal biasanya disajikan sebagai bumbu pelengkap untuk berbagai hidangan Indonesia seperti nasi goreng, mie goreng, ayam goreng, ikan bakar, dan masih banyak lagi. Setiap daerah di Indonesia memiliki varian sambal yang berbeda-beda dengan rasa, tekstur, dan tingkat kepedasan yang beragam. Ada sambal yang terbuat dari cabai rawit kecil yang sangat pedas, ada juga sambal yang terbuat dari cabai merah besar yang lebih tahan pedas.</item>
+        <item>Sate adalah hidangan khas Indonesia yang terdiri dari potongan daging atau ayam yang ditusuk dengan tusuk sate atau bambu, kemudian dibakar atau dipanggang di atas arang atau kompor hingga matang. Sate biasanya disajikan dengan bumbu kacang atau kecap manis sebagai saus pelengkapnya. Sate memiliki banyak variasi, tergantung pada jenis daging atau ayam yang digunakan, dan juga bumbu marinade atau rempah yang digunakan. Beberapa jenis sate yang popular di Indonesia adalah sate ayam, sate kambing, sate sapi, sate lilit Bali (daging cincang yang dibungkus dengan daun pepaya), dan sate padang (daging sapi dengan bumbu kacang khas Padang).</item>
+    </string-array>
+
+    <integer-array name="data_foods_photo">
+        <item>@drawable/bakso</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_padang</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/rawon</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/sambal</item>
+        <item>@drawable/sate</item>
+    </integer-array>
+</resources>
